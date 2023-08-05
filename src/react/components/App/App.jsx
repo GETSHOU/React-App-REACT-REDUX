@@ -1,5 +1,5 @@
 import styles from './App.module.css';
-import { Game } from './components/Game/Game.jsx';
+import { Game } from '../Game/Game';
 
 export const App = () => {
 	return (
